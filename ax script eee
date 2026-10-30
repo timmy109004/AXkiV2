@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/timmy109004/AXkiV2/refs/heads/main/ax%20script.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/timmy109004/AXkiV2/refs/heads/main/abacktools-obfuscated.lua"))()
